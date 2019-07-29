@@ -4,4 +4,7 @@
 /modules.xml
 /vcs.xml
 /Making_My_Site.iml
-../templates/*
+../templates/
+../template/about-us.html
+../templates
+../templates/*.html
